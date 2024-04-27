@@ -1,0 +1,5 @@
+setup.py
+livesensor.egg-info/PKG-INFO
+livesensor.egg-info/SOURCES.txt
+livesensor.egg-info/dependency_links.txt
+livesensor.egg-info/top_level.txt
